@@ -101,7 +101,7 @@ async def chat(query: str = Body(..., embed=True)):
     if index is None:
         raise HTTPException(
             status_code=400,
-            detail="Index is not initialized. Please upload a file first."
+            detail="Index is not initializedd. Please upload a file first."
         )
     try:
         query_engine = index.as_query_engine(
@@ -114,7 +114,7 @@ async def chat(query: str = Body(..., embed=True)):
         print(f"Error during query execution: {e}")
         raise HTTPException(
             status_code=500,
-            detail="Failed to process the query"
+            detail="Failed to process  query"
         )
 
 
