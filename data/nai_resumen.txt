@@ -1,0 +1,94 @@
+📚 Resumen de la clase: Ley 11.683 y derecho tributario nacional
+1. Ámbito de aplicación de la Ley 11.683
+La Ley 11.683 es una ley de procedimiento tributario de aplicación nacional, que regula las actuaciones vinculadas con los tributos nacionales. Es aplicable a todos los procedimientos llevados a cabo por el organismo de recaudación, que actualmente se denomina ARCA (ex AFIP, ex DGI). No importa el nombre que adopte, su función esencial permanece: recaudar, controlar y fiscalizar tributos de carácter nacional.
+
+2. Fundamento constitucional: Artículo 4 de la Constitución Nacional
+Este artículo es fundamental para entender la fuente de financiamiento del Estado. Establece cómo se conforma el Tesoro Nacional:
+
+Derechos de importación y exportación.
+
+Renta de tierras de propiedad nacional.
+
+Contribuciones que imponga proporcionalmente el Congreso Nacional.
+
+🔹 El último punto es clave: las contribuciones son los tributos, es decir, lo que cada persona debe pagar en función de su capacidad contributiva.
+
+🧾 3. El hecho imponible y su relación con el delito
+Se comparó el hecho imponible con el delito en el sentido técnico: ambos son conductas tipificadas por la ley. Así como no hay delito sin ley que lo determine, no hay tributo sin ley que lo establezca.
+
+🔹 Hecho imponible: es la conducta o situación económica que, según la ley, da origen al nacimiento del tributo. Ejemplo: tener un auto genera el hecho imponible para el impuesto automotor.
+
+🏢 4. La agencia de recaudación (ARCA)
+ARCA (ex AFIP) tiene dos grandes ramas:
+
+Aduanera: controla derechos de importación y exportación.
+
+Tributaria: controla impuestos internos, como IVA, ganancias, etc.
+
+Su tarea es velar por la correcta percepción de los tributos definidos en la Ley y en la Constitución.
+
+📍 5. Domicilio Fiscal (Artículo 3 de la Ley 11.683)
+El domicilio fiscal es esencial para la relación entre el contribuyente y ARCA, ya que es allí donde se practican las notificaciones legales.
+
+Tipos de domicilios:
+Real: donde la persona vive efectivamente.
+
+Legal: el que se constituye para efectos jurídicos.
+
+Procesal o constituido: el que se fija para un proceso judicial específico.
+
+Fiscal: es el que el contribuyente denuncia ante ARCA para recibir comunicaciones.
+
+🔹 Domicilio fiscal electrónico: correo vinculado al sistema de clave fiscal, es donde llegan notificaciones digitales. Muchas veces lo fija el contador, lo cual puede generar problemas si no se actualiza correctamente.
+
+Presunciones en caso de no denunciar domicilio:
+Si el contribuyente no denuncia domicilio fiscal, ARCA puede considerar como válido:
+
+El domicilio real (más común).
+
+En personas jurídicas: el domicilio de la administración principal.
+
+🔸 IMPORTANTE: Si se cambia el domicilio o el contador, hay que actualizar inmediatamente ante ARCA, ya que la carga de notificar ese cambio recae sobre el contribuyente.
+
+📆 6. Cómputo de plazos (Artículo 4 de la Ley 11.683)
+Dentro de la AFIP/ARCA: se cuentan días hábiles administrativos.
+
+En el Tribunal Fiscal de la Nación: se computan días hábiles judiciales.
+
+🔹 Ejemplo: si me llega una vista administrativa de ARCA, tengo 5 días hábiles administrativos para contestar. Si estoy ante un tribunal judicial, los días serán judiciales y habrá feria judicial.
+
+👤 7. Sujetos del tributo (Artículo 5 y siguientes)
+a) Sujetos responsables por deuda propia:
+Son los contribuyentes directos.
+
+Pagan en nombre propio o a través de representantes (apoderados, herederos).
+
+Tienen obligación de pagar el tributo según lo establece la ley (forma, plazo, modo).
+
+Ej.: un monotributista que factura, debe pagar IVA e ingresos brutos.
+
+b) Sujetos responsables por deuda ajena (Artículo 6):
+No generan el hecho imponible, pero el Estado les impone la responsabilidad de recaudar o retener tributos de terceros.
+
+Ejemplos:
+
+Escribano que actúa como agente de retención.
+
+Estación de servicio que retiene el impuesto a los combustibles.
+
+Empresas que actúan como agentes de percepción del IVA.
+
+🔸 En estos casos, el verdadero contribuyente es el consumidor final, pero el agente actúa como intermediario forzoso.
+
+🧠 8. Conceptos clave del derecho tributario
+Tributo: obligación de pagar una suma de dinero al Estado en virtud de una ley.
+
+Hecho imponible: el acto, hecho o situación que, según la ley, genera el deber de pagar el tributo.
+
+Capacidad contributiva: principio que rige el sistema tributario argentino: cada persona paga según su capacidad económica.
+
+⚖️ 9. Relación con el Código Civil y Comercial
+Cuando la ley tributaria no establece un domicilio fiscal, se recurre al domicilio legal o real según el Código Civil y Comercial. Además, los herederos y legatarios están obligados a pagar deudas tributarias si reciben bienes del contribuyente fallecido.
+
+🔚 Conclusión
+La clase trató sobre el funcionamiento del sistema tributario nacional, la importancia del domicilio fiscal como eje de la notificación válida, y la identificación de los sujetos obligados a pagar impuestos. Todo ello se enmarca dentro de los principios constitucionales del artículo 4 y las normas de procedimiento de la Ley 11.683.

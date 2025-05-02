@@ -1,0 +1,25 @@
+# How to config environment for MacOS and install dependencies
+
+xcode-select --install
+brew install cmake  libomp
+
+nano ~/.zshrc
+
+export LDFLAGS="-L/opt/homebrew/opt/libomp/lib"
+export CPPFLAGS="-I/opt/homebrew/opt/libomp/include"
+export SDKROOT=$(xcrun --show-sdk-path)
+export ARCHFLAGS="-arch arm64"  # Avoid unsupported flags like `-march=native` :cite[1]:cite[8]
+
+correr estos: 
+python3.11 -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
+pip freeze > requirements.txt
+
+y recordar cambiar el python de la terminal por el de la venv
+
+uvicorn main:app --reload 
+Generated from cURL: curl -X POST "http://localhost:8000/chat" -H "Content-Type: application/json" -d '{"query":"What is the document about?"}'
+
+para correr el front end ( despues de levantar la api)
+streamlit run frontend.py
